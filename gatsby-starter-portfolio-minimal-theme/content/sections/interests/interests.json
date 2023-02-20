@@ -1,0 +1,44 @@
+{
+  "interests": [
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/javascript_favicon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react_favicon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python_favicon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Html",
+      "image": {
+        "src": "../../images/html_favicon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Css",
+      "image": {
+        "src": "../../images/css_favicon.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

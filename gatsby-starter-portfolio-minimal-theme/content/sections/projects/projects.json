@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Project 1",
+      "title": "TWITTER SHOWCASE APP",
+      "description": "Coming soon in Q1 2023",
+      "tags": [
+        "Python",
+        "Javascript",
+        "React"
+      ],
+      "image": {
+        "src": "../../images/twitter_favicon.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/cdb8987"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cdb8987"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/cdb8987"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Project 2",
+      "title": "REAL TIME MESSAGING APP",
+      "description": "Coming soon in Q1 2023",
+      "tags": [
+        "Python",
+        "Javascript",
+        "React"
+      ],
+      "image": {
+        "src": "../../images/messaging_favicon.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/cdb8987"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cdb8987"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Project 3",
+      "title": "REAL TIME CHESS APP",
+      "description": "Coming soon in Q1 2023",
+      "tags": [
+        "Python",
+        "Javascript",
+        "React"
+      ],
+      "image": {
+        "src": "../../images/chess_favicon.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/cdb8987"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cdb8987"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/cdb8987"
+  }
+}

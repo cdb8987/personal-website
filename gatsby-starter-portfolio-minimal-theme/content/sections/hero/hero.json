@@ -1,0 +1,25 @@
+{
+  "intro": "Hi",
+  "heroPhoto": {
+    "src": "../../images/profilepic.jpg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "My name is Charlie.",
+  "subtitle": {
+    "prefix": "I am a  ",
+    "highlight": "Software Developer",
+    "suffix": "."
+  },
+  "description": "Thanks for checking out my portfolio :)",
+  "socialProfiles": {
+    "from": [
+      "LinkedIn",
+      "Github"
+    ],
+    "showIcons": false
+  }
+}

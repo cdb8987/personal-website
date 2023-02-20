@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "email": "",
+  "description": "Want to know more?  Send me a message!",
+  "image": {
+    "src": "../../images/emailaddress.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": [
+      "LinkedIn",
+      "Github"
+    ],
+    "showIcons": true
+  }
+}
